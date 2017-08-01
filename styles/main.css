@@ -1,0 +1,23 @@
+body{
+    margin: 0 auto;
+}
+.wrapper{
+    max-width: 966px;
+    margin: 0 auto;
+}
+header{
+    margin: 0;
+    background-color: blue;
+}
+nav{
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    width: 60px;
+}
